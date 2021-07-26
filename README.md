@@ -22,3 +22,6 @@ The high limit is nine because there is a possibility that the customer has a to
 Customers can have a total value of nine with a combination of 414 which means that the customer has just purchased with a large nominal amount. However, the customer has only made a purchase once so he has not become a loyal customer.
 <br><br>
 The RFM value uses the 25%, 50%, 75% percentile to see the distribution of the data on each parameter and divides it into 4 parts to determine the high/low parameter values owned by each customer. Example: A customer has RFMScore 344 and TotalRFM 11. It means that the customer has a value of Recency 3, Frequency 4, and Monetary 4. This means that the customer has recently placed an order. These customers often place orders and with a large total nominal. If the RFMScore is added, it will total 11 points. This indicates that the customer is included in the high segmentation because it has a total score of more than 9 points.
+<br><br>
+**Result**<br>
+**Based on the RFM analysis, 202 customers are included in low segmentation, 391 medium segmentation & 200 high segmentation.**
